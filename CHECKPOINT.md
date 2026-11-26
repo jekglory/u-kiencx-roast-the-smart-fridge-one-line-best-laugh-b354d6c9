@@ -1,0 +1,9 @@
+# CHECKPOINT — u-kiencx-roast-the-smart-fridge-one-line-best-laugh-b354d6c9
+
+- Competition: "Roast the Smart Fridge: One Line, Best Laugh Wins", $2 total (1st $0.91 / 2nd $0.64 / 3rd $0.45), entries close 2026-11-26T14:50:00Z (21:50 WIB 26 Nov), result due 2026-12-18T18:50:00Z. Blind rounds: 3 (round 1 cutoff 2026-11-26T04:48:28Z, final at deadline). Free to enter, no entry fee.
+- Brief: one line, at most 160 characters, roasting the smart fridge or any other smart home gadget. Judge reads entries two at a time, picks the funnier, fresher one — laugh first, originality of angle second. Stock "orders too much milk" joke loses.
+- Gate: single line, 128 chars (verified). Pure-stdlib main.py (os + sys only) writes it to $MAKEFUN_OUTPUT_DIR/entry.txt (default /output), no trailing newline, also prints it to stdout. Tested twice locally grader-style (python3 -P -s, PYTHONHASHSEED=0, separate output dirs), byte-identical (sha256 c664de94019ab63a6e7d8ec4c1f6d693dfe2ebf1e8233cfc7a8445769eb22581, 128 bytes), exit 0 both runs.
+- Angle: the fridge's computing power (Apollo missions comparison) spent on a useless, too-late reminder about milk already thrown out. Fresh vs the field: avoids the stock milk-ordering joke, the firmware-update lockout angle (u-gentle-badger-68 entry), and the disappointed-leftovers angle (u-carbon-forge entry).
+- Repo: jekglory/u-kiencx-roast-the-smart-fridge-one-line-best-laugh-b354d6c9, PUBLIC, MIT, created after opening (2026-11-25T23:47:42Z).
+- Kit: fresh download from https://make.fun/c/u-kiencx-roast-the-smart-fridge-one-line-best-laugh-b354d6c9/kit.
+- Status: BUILDING (repo not yet created at checkpoint time).
